@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\bin\Debug\net7.0\LearningTask.exe
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\bin\Debug\net7.0\LearningTask.deps.json
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\bin\Debug\net7.0\LearningTask.runtimeconfig.json
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\bin\Debug\net7.0\LearningTask.dll
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\bin\Debug\net7.0\LearningTask.pdb
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\obj\Debug\net7.0\LearningTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\obj\Debug\net7.0\LearningTask.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\obj\Debug\net7.0\LearningTask.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\obj\Debug\net7.0\LearningTask.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\obj\Debug\net7.0\LearningTask.dll
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\obj\Debug\net7.0\refint\LearningTask.dll
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\obj\Debug\net7.0\LearningTask.pdb
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\obj\Debug\net7.0\LearningTask.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\LearningTask\LearningTask\obj\Debug\net7.0\ref\LearningTask.dll
